@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "node sync-icons.js"
+    },
+    "devDependencies": {
+        "@blueprintjs/icons": "^4.4.0",
+        "humps": "^2.0.0",
+        "mkdirp": "^1.0.0"
+    }
+}
