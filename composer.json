@@ -1,15 +1,21 @@
 {
     "name": "cooper/blade-blueprint-icons",
     "description": "A package to easily make use of Blueprint Icons in your Laravel Blade views.",
-    "keywords": ["Blade", "Blueprint Icons", "Laravel"],
+    "keywords": [
+        "Blade",
+        "Blueprint Icons",
+        "Laravel"
+    ],
     "homepage": "https://github.com/myxiaoao/blade-blueprint-icons",
     "license": "MIT",
-    "authors": [{
-        "name": "Cooper",
-        "email": "myxiaoao@gmail.com",
-        "homepage": "https://github.com/myxiaoao",
-        "role": "Developer"
-    }],
+    "authors": [
+        {
+            "name": "Cooper",
+            "email": "myxiaoao@gmail.com",
+            "homepage": "https://github.com/myxiaoao",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": "^7.4|^8.0",
         "blade-ui-kit/blade-icons": "^1.0",
@@ -32,7 +38,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "BladeBlueprintIconsServiceProvider"
+                "Cooper\\BladeBlueprintIcons\\BladeBlueprintIconsServiceProvider"
             ]
         }
     },
