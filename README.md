@@ -12,7 +12,7 @@
 
 A package to easily make use of [Blueprint Icons](https://github.com/palantir/blueprint/tree/develop/packages/icons) in your Laravel Blade views.
 
-For a full list of available icons see [the SVG directory](resources/svg) or preview them at [Blueprint IconPark](https://blueprintjs.com/docs/#icons).
+For a full list of available icons see [the SVG directory](resources/svg) or preview them at [Blueprint icons](https://blueprintjs.com/docs/#icons).
 
 ## Requirements
 
