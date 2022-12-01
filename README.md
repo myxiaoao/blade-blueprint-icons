@@ -16,8 +16,8 @@ For a full list of available icons see [the SVG directory](resources/svg) or pre
 
 ## Requirements
 
-- PHP 7.4 or higher
-- Laravel 8.0 or higher
+- PHP 8.0 or higher
+- Laravel 9.0 or higher
 
 ## Installation
 
@@ -57,7 +57,7 @@ php artisan vendor:publish --tag=blade-blueprint-icons --force
 Then use them in your views like:
 
 ```blade
-<img src="{{ asset('vendor/blade-blueprint-icons/apple.svg') }}" width="10" height="10"/>
+<img src="{{ asset('vendor/blade-blueprint-icons/add.svg') }}" width="10" height="10"/>
 ```
 
 ### Blade Icons
