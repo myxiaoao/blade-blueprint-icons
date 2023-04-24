@@ -7,6 +7,6 @@
     "devDependencies": {
         "@blueprintjs/icons": "^4.14.5",
         "humps": "^2.0.0",
-        "mkdirp": "^2.1.6"
+        "mkdirp": "^3.0.1"
     }
 }
