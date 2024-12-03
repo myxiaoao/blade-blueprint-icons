@@ -5,7 +5,7 @@
         "dev": "node sync-icons.js"
     },
     "devDependencies": {
-        "@blueprintjs/icons": "^5.14.0",
+        "@blueprintjs/icons": "^5.15.0",
         "humps": "^2.0.0",
         "mkdirp": "^3.0.1"
     }
